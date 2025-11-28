@@ -1,0 +1,32 @@
+[
+    {
+        "id": "linkedin",
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/rahul-maurya-a9943b267/",
+        "icon": "linkedin"
+    },
+    {
+        "id": "github",
+        "name": "GitHub",
+        "url": "https://github.com/rahulmaurya255",
+        "icon": "github"
+    },
+    {
+        "id": "kaggle",
+        "name": "Kaggle",
+        "url": "https://www.kaggle.com/rahulmauryya",
+        "icon": "kaggle"
+    },
+    {
+        "id": "hackerrank",
+        "name": "HackerRank",
+        "url": "https://www.hackerrank.com/profile/thegalaxy_edu",
+        "icon": "hackerrank"
+    },
+    {
+        "id": "leetcode",
+        "name": "LeetCode",
+        "url": "https://leetcode.com/u/user1509wx/",
+        "icon": "leetcode"
+    }
+]

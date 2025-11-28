@@ -1,0 +1,30 @@
+[
+    {
+        "id": "proj-1",
+        "title": "Your Project Title",
+        "short": "Brief description of your project - what problem it solves and key technologies used.",
+        "code_url": "https://github.com/rahulmaurya255/project-name",
+        "live_url": null,
+        "thumbnail": null,
+        "tags": [
+            "Python",
+            "Machine Learning",
+            "TensorFlow"
+        ],
+        "date": "2024-11-01"
+    },
+    {
+        "id": "proj-2",
+        "title": "Another Project",
+        "short": "Another brief description of what this project does and the technologies involved.",
+        "code_url": "https://github.com/rahulmaurya255/another-project",
+        "live_url": null,
+        "thumbnail": null,
+        "tags": [
+            "Data Science",
+            "Pandas",
+            "Visualization"
+        ],
+        "date": "2024-10-15"
+    }
+]
