@@ -1,0 +1,5 @@
+name = "rahul-portfolio"
+compatibility_date = "2025-11-28"
+
+[site]
+bucket = "./dist"
