@@ -35,8 +35,8 @@ export default function Footer() {
                 <div className="footer-section">
                     <h4>Contact</h4>
                     <p>
-                        <a href="mailto:your.email@example.com" className="footer-email">
-                            your.email@example.com
+                        <a href="mailto:raj255rrr@gmail.com" className="footer-email">
+                            raj255rrr@gmail.com
                         </a>
                     </p>
                     <p className="footer-note">
